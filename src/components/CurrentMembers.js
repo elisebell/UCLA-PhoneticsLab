@@ -1,31 +1,29 @@
-import ReplaceImg from "../../public/myfairlady4.jpg";
-import Abber_Abbas from "../components/current_members/Abeer_Abbas.jpg";
 import Ben_Eischens from "../components/current_members/Ben_Eischens.jpg";
 import Bruce_Hayes from "../components/current_members/Bruce_Hayes.jpg";
 import Claire_Moore_Cantwell from "../components/current_members/Claire_Moore_Cantwell.jpg";
-import Katya_Khlystova from "../components/current_members/Katya_Khlystova.jpg";
 import Elizabeth_Sola_Llonch from "../components/current_members/Elizabeth_Sola_Llonch.jpg";
 import Jahnavi_Narkar from "../components/current_members/Jahnavi_Narkar.jpg";
-import Jake_Aziz from "../components/current_members/Jake_Aziz.jpg";
 import Jian_Leat_Siah from "../components/current_members/Jian_Leat_Siah.jpg";
-import Jinyoung_Jo from "../components/current_members/Jinyoung_Jo.jpg";
 import Jody_Kreiman from "../components/current_members/Jody_Kreiman.jpg";
-import John_McGahay from "../components/current_members/mcgahay_photo.jpg";
+import John_McGahay from "../components/current_members/John_McGahay.jpg";
 import Kevin_Liang from "../components/current_members/Kevin_Liang.jpg";
 import Kie_Zuraw from "../components/current_members/Kie_Zuraw.jpg";
 import Lily_Xu from "../components/current_members/Lily_Xu.jpg";
-import Meg_Cychosz from "../components/current_members/Meg_Cychosz.jpg";
 import Megha_Sundara from "../components/current_members/Megha_Sundara.jpg";
 import Patricia_Keating from "../components/current_members/Patricia_Keating.jpg";
 import Sun_Ah_Jun from "../components/current_members/Sun_Ah_Jun.jpg";
 import Jonah_Katz from "../components/current_members/Jonah_Katz.jpg";
 import Elise_Bell from "../components/current_members/Elise_Bell.jpg";
 import Sylvia_Cho from "../components/current_members/Sylvia_Cho.jpg";
+import Jennifer_Shin from "../components/current_members/Jennifer_Shin.jpg";
+import Khang_Dinh from "../components/current_members/Khang_Dinh.jpg";
+import Baichen_Du from "../components/current_members/Baichen_Du.jpg";
+import Zenghui_Liu from "../components/current_members/Zenghui_Liu.jpg";
 
 export const members = [
   {
     name: "Elise Bell",
-    occupation: "Faculty/Lab Support Staff",
+    occupation: "Faculty | Lab Support Staff",
     imgSrc: Elise_Bell,
     link: "https://elisebell.github.io/",
   },
@@ -34,6 +32,18 @@ export const members = [
     occupation: "Faculty",
     imgSrc: Sylvia_Cho,
     link: "https://sylviacho247.github.io/index.html ",
+  },
+  {
+    name: "Baichen Du",
+    occupation: "Graduate Student",
+    imgSrc: Baichen_Du,
+    link: "https://baichen-du.github.io/",
+  },
+  {
+    name: "Khang Đinh",
+    occupation: "Graduate Student",
+    imgSrc: Khang_Dinh,
+    link: "http://dinhuistics.github.io/",
   },
   {
     name: "Ben Eischens",
@@ -78,6 +88,12 @@ export const members = [
     link: "https://kevinliang8.github.io/",
   },
   {
+    name: "Zenghui Liu",
+    occupation: "Visiting Researcher",
+    imgSrc: Zenghui_Liu,
+    link: "https://linguistics.ucla.edu/person/zenghui-liu/",
+  },
+  {
     name: "John McGahay",
     occupation: "Graduate Student",
     imgSrc: John_McGahay,
@@ -94,6 +110,12 @@ export const members = [
     occupation: "Graduate Student",
     imgSrc: Jahnavi_Narkar,
     link: "http://jahnavinarkar.com/",
+  },
+  {
+    name: "Jennifer Shin",
+    occupation: "Graduate Student",
+    imgSrc: Jennifer_Shin,
+    link: "https://linguistics.ucla.edu/person/jae-eun-jennifer-shin/",
   },
   {
     name: "Jian-Leat Siah",

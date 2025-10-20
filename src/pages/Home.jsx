@@ -1,5 +1,5 @@
 import Text from "../components/Text";
-import MyFairLady from "../../public/myfairlady4.jpg";
+import MyFairLady from "../../src/assets/myfairlady4.jpg";
 import { Divider } from "@nextui-org/react";
 
 const HomePage = () => {
