@@ -8,30 +8,21 @@ import Jody_Kreiman from "../components/current_members/Jody_Kreiman.jpg";
 import John_McGahay from "../components/current_members/John_McGahay.jpg";
 import Kevin_Liang from "../components/current_members/Kevin_Liang.jpg";
 import Kie_Zuraw from "../components/current_members/Kie_Zuraw.jpg";
-import Lily_Xu from "../components/current_members/Lily_Xu.jpg";
 import Megha_Sundara from "../components/current_members/Megha_Sundara.jpg";
 import Patricia_Keating from "../components/current_members/Patricia_Keating.jpg";
 import Sun_Ah_Jun from "../components/current_members/Sun_Ah_Jun.jpg";
 import Jonah_Katz from "../components/current_members/Jonah_Katz.jpg";
 import Elise_Bell from "../components/current_members/Elise_Bell.jpg";
-import Sylvia_Cho from "../components/current_members/Sylvia_Cho.jpg";
 import Jennifer_Shin from "../components/current_members/Jennifer_Shin.jpg";
 import Khang_Dinh from "../components/current_members/Khang_Dinh.jpg";
 import Baichen_Du from "../components/current_members/Baichen_Du.jpg";
-import Zenghui_Liu from "../components/current_members/Zenghui_Liu.jpg";
 
 export const members = [
   {
     name: "Elise Bell",
-    occupation: "Faculty | Lab Support Staff",
+    occupation: "Faculty",
     imgSrc: Elise_Bell,
     link: "https://elisebell.github.io/",
-  },
-  {
-    name: "Sylvia Cho",
-    occupation: "Faculty",
-    imgSrc: Sylvia_Cho,
-    link: "https://sylviacho247.github.io/index.html ",
   },
   {
     name: "Baichen Du",
@@ -50,6 +41,11 @@ export const members = [
     occupation: "Faculty",
     imgSrc: Ben_Eischens,
     link: "https://linguistics.ucla.edu/person/ben-eischens",
+  },
+  {
+    name: "Ethan Glass",
+    occupation: "Graduate Student",
+    link: "https://linguistics.ucla.edu/person/ethan-glass/",
   },
   {
     name: "Bruce Hayes",
@@ -88,12 +84,6 @@ export const members = [
     link: "https://kevinliang8.github.io/",
   },
   {
-    name: "Zenghui Liu",
-    occupation: "Visiting Researcher",
-    imgSrc: Zenghui_Liu,
-    link: "https://linguistics.ucla.edu/person/zenghui-liu/",
-  },
-  {
     name: "John McGahay",
     occupation: "Graduate Student",
     imgSrc: John_McGahay,
@@ -107,7 +97,7 @@ export const members = [
   },
   {
     name: "Jahnavi Narkar",
-    occupation: "Graduate Student",
+    occupation: "Faculty",
     imgSrc: Jahnavi_Narkar,
     link: "http://jahnavinarkar.com/",
   },
@@ -134,12 +124,6 @@ export const members = [
     occupation: "Faculty",
     imgSrc: Megha_Sundara,
     link: "https://linguistics.ucla.edu/person/megha-sundara/",
-  },
-  {
-    name: "Lily Xu",
-    occupation: "Graduate Student",
-    imgSrc: Lily_Xu,
-    link: "https://sites.google.com/view/lilyxxu/",
   },
   {
     name: "Kie Zuraw",
