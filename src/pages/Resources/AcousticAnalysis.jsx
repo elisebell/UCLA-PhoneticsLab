@@ -1,6 +1,7 @@
 import Text from "../../components/Text";
 import VoiceSauce from "./AcousticAnalysis/VoiceSauce";
 import PraatScript from "./AcousticAnalysis/PraatScript";
+import VoiceSynthesizer from "./AcousticAnalysis/VoiceSynthesizer";
 import { Divider } from "@nextui-org/react";
 
 const AcousticAnalysis = () => {
@@ -11,6 +12,8 @@ const AcousticAnalysis = () => {
       <VoiceSauce />
       <Divider className="mt-10 w-full mx-auto border-t-2 border-gray-400" />
       <PraatScript />
+      <Divider className="mt-10 w-full mx-auto border-t-2 border-gray-400" />
+      <VoiceSynthesizer />      
     </div>
   );
 };

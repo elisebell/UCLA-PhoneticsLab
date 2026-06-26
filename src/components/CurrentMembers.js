@@ -16,6 +16,7 @@ import Elise_Bell from "../components/current_members/Elise_Bell.jpg";
 import Jennifer_Shin from "../components/current_members/Jennifer_Shin.jpg";
 import Khang_Dinh from "../components/current_members/Khang_Dinh.jpg";
 import Baichen_Du from "../components/current_members/Baichen_Du.jpg";
+import Ethan_Glass from "../components/current_members/silhouette.jpg";
 
 export const members = [
   {
@@ -45,6 +46,7 @@ export const members = [
   {
     name: "Ethan Glass",
     occupation: "Graduate Student",
+    imgSrc: Ethan_Glass,
     link: "https://linguistics.ucla.edu/person/ethan-glass/",
   },
   {

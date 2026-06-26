@@ -647,7 +647,7 @@ export const rows = [
     key: "",
     name: "Zenghui Liu",
     status: "Associate Professor, Yunnan University, China",
-    website: "mailto:zenghui_liu@ynu.edu.cn",
+    website: "http://www.wxy.ynu.edu.cn/info/1011/1291.htm",
   },
   {
   key: "96",
