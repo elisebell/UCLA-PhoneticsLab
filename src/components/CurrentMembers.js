@@ -99,7 +99,7 @@ export const members = [
   },
   {
     name: "Jahnavi Narkar",
-    occupation: "Faculty",
+    occupation: "Faculty | Instructional Support",
     imgSrc: Jahnavi_Narkar,
     link: "http://jahnavinarkar.com/",
   },
