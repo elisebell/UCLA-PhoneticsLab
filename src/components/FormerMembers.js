@@ -27,7 +27,7 @@ export const rows = [
     key: "4",
     name: "Ann Aly",
     status: "TechFlow Inc., Director of Human Centered Design",
-    website: "Vacation",
+    website: "",
   },
   {
     key: "5",
@@ -183,6 +183,12 @@ export const rows = [
     website: "https://deall.osu.edu/people/chan.9",
   },
   {
+    key: "",
+    name: "Sylvia Cho",
+    status: "",
+    website: "https://sylviacho247.github.io/index.html ",
+  },
+  {
     key: "28",
     name: "Taehong Cho",
     status: "Professor of Linguistics (HYU Distinguished Research Fellow)",
@@ -217,7 +223,7 @@ export const rows = [
       key: "32",
       name: "Meg Cychosz",
       status: "Assistant Professor, Dept. of Linguistics, Stanford University",
-      link: "https://megseekosh.github.io/",
+      website: "https://megseekosh.github.io/",
     },
   {
     key: "33",
@@ -638,10 +644,16 @@ export const rows = [
     website: "",
   },
   {
-    key: "96",
-    name: "Ingvar Lofstedt",
-    status: "",
-    website:
+    key: "",
+    name: "Zenghui Liu",
+    status: "Associate Professor, Yunnan University, China",
+    website: "http://www.wxy.ynu.edu.cn/info/1011/1291.htm",
+  },
+  {
+  key: "96",
+  name: "Ingvar Lofstedt",
+  status: "",
+  website:
       "https://linguistics.ucla.edu/people/zuraw/251_2013/Readings/LofstedtDissertationUCLA2010Extract.pdf",
   },
   {
@@ -1034,6 +1046,12 @@ export const rows = [
     status:
       "University of Washington, Department of Linguistics, Professor and Department Chair",
     website: "https://linguistics.washington.edu/people/richard-wright",
+  },
+  {
+    key: "",
+    name: "Lily Xu",
+    status: "",
+    website: "https://sites.google.com/view/lilyxxu/",
   },
   {
     key: "158",
